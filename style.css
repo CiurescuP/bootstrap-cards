@@ -1,0 +1,32 @@
+body {
+    background-color: #DECCCC;
+} 
+
+h2 {
+    background-color:  #285e8a;
+}
+
+.card {
+    font-size: 20px;
+    border-radius: 25px;
+    margin:auto;
+    height: 100%;
+}
+
+.col-md-4 {
+    padding-bottom: 30px;
+}
+
+.card img {
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+ 
+.socials {
+    padding: 20px;  
+}
+
+.card-link {
+    display:contents;
+}
+
